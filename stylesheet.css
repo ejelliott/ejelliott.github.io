@@ -50,13 +50,13 @@ p {
 table {
     position:relative;
     background-color: #F0FFF0;
-    margin-left: 10%;
+    margin-left: 18%;
     margin-top: auto;
 }
 
 td {
 	height: 200px;
-	width: 200px;
+	width: 250px;
 }
 
 td img {
